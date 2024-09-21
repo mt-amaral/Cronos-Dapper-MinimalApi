@@ -1,0 +1,6 @@
+@Cronos_Dapper_MinimalApi_HostAddress = http://localhost:5243
+
+GET {{Cronos_Dapper_MinimalApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
